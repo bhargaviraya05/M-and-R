@@ -1,0 +1,11 @@
+
+Fabian Lee : Software Engineer
+https://fabianlee.org › 2023/08/05 › git-create-a-new-e...
+5 Aug 2023 — Use `git switch --orphan` (git 2.23+) or `git checkout --orphan` (older versions) to create a new empty branch. Then, commit and push.
+Wiping Out Git History and Creating a Fresh Branch
+
+W3Schools
+https://www.w3schools.com › git › git_branch
+What is a Git Branch? In Git, a branch is like a separate workspace where you can make changes and try new ideas without affecting the main project.
+People also ask
+Can I create an empty branch?
