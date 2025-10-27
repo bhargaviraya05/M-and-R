@@ -1,0 +1,15 @@
+Is there any command to open list of branches in VS Code?
+
+Stack Overflow
+3 answers · 8 years ago
+Yes, there is the git: Checkout to... command. It displays the picker including all known branches. You can execute this command also by clicking on the current ...
+3 answers
+ 
+·
+ 
+Top answer: 
+Yes, there is the git: Checkout to... command. It displays the picker including all known branches. ...
+Show git branch in Visual Studio Code - Stack Overflow
+19 Jun 2017
+How to list local branches in Visual Studio Code? - git
+30 Mar 2017
