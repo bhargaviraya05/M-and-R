@@ -1,0 +1,9 @@
+git switch man page
+
+stackoverflow,com, create empty branch on github
+
+stackoverflow, difference between git checkout and switch
+
+github git, release notes for 2.23.0 where switch was introduced
+
+stackoverflow, is there way of introducing unrelated branch
